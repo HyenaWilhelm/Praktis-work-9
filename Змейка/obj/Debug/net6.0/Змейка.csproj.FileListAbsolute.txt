@@ -1,0 +1,45 @@
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Змейка\Змейка\bin\Debug\net6.0\Змейка.exe
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Змейка\Змейка\bin\Debug\net6.0\Змейка.deps.json
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Змейка\Змейка\bin\Debug\net6.0\Змейка.runtimeconfig.json
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Змейка\Змейка\bin\Debug\net6.0\Змейка.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Змейка\Змейка\bin\Debug\net6.0\Змейка.pdb
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Змейка\Змейка\obj\Debug\net6.0\Змейка.csproj.AssemblyReference.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Змейка\Змейка\obj\Debug\net6.0\Змейка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Змейка\Змейка\obj\Debug\net6.0\Змейка.AssemblyInfoInputs.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Змейка\Змейка\obj\Debug\net6.0\Змейка.AssemblyInfo.cs
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Змейка\Змейка\obj\Debug\net6.0\Змейка.csproj.CoreCompileInputs.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Змейка\Змейка\obj\Debug\net6.0\Змейка.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Змейка\Змейка\obj\Debug\net6.0\refint\Змейка.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Змейка\Змейка\obj\Debug\net6.0\Змейка.pdb
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Змейка\Змейка\obj\Debug\net6.0\Змейка.genruntimeconfig.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Змейка\Змейка\obj\Debug\net6.0\ref\Змейка.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\bin\Debug\net6.0\Змейка.exe
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\bin\Debug\net6.0\Змейка.deps.json
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\bin\Debug\net6.0\Змейка.runtimeconfig.json
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\bin\Debug\net6.0\Змейка.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\bin\Debug\net6.0\Змейка.pdb
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\obj\Debug\net6.0\Змейка.csproj.AssemblyReference.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\obj\Debug\net6.0\Змейка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\obj\Debug\net6.0\Змейка.AssemblyInfoInputs.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\obj\Debug\net6.0\Змейка.AssemblyInfo.cs
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\obj\Debug\net6.0\Змейка.csproj.CoreCompileInputs.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\obj\Debug\net6.0\Змейка.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\obj\Debug\net6.0\refint\Змейка.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\obj\Debug\net6.0\Змейка.pdb
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\obj\Debug\net6.0\Змейка.genruntimeconfig.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\obj\Debug\net6.0\ref\Змейка.dll
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\bin\Debug\net6.0\Змейка.exe
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\bin\Debug\net6.0\Змейка.deps.json
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\bin\Debug\net6.0\Змейка.runtimeconfig.json
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\bin\Debug\net6.0\Змейка.dll
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\bin\Debug\net6.0\Змейка.pdb
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\obj\Debug\net6.0\Змейка.csproj.AssemblyReference.cache
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\obj\Debug\net6.0\Змейка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\obj\Debug\net6.0\Змейка.AssemblyInfoInputs.cache
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\obj\Debug\net6.0\Змейка.AssemblyInfo.cs
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\obj\Debug\net6.0\Змейка.csproj.CoreCompileInputs.cache
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\obj\Debug\net6.0\Змейка.dll
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\obj\Debug\net6.0\refint\Змейка.dll
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\obj\Debug\net6.0\Змейка.pdb
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\obj\Debug\net6.0\Змейка.genruntimeconfig.cache
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Змейка\Змейка\obj\Debug\net6.0\ref\Змейка.dll
